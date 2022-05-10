@@ -35,6 +35,7 @@ Observações:
 - GIT init: Inicialização
 - GIT Add . ou * : Adicionar 
 - GIT commit -m "commit iniciar"  -comitta um arquivo e prepara ele para o github
+- Mandando para o Github: Git push origin main
 
 **Configurações**
 
